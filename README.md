@@ -1,3 +1,6 @@
+![Fraud Dashboard](https://cdn-icons-png.flaticon.com/512/4149/4149678.png)
+
+
 # Detecting Credit Card Fraud Transactions
 
 Company XYZ is an e-commerce site that sells hand-made clothes.
